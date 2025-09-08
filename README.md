@@ -6,7 +6,8 @@ Revivemyoc 是一款经典的消消乐游戏（Match-3 Game），使用 JavaFX �
 ## 项目结构
 
 以下是本项目的主要文件夹结构及说明：
-
+<img width="826" height="1190" alt="image" src="https://github.com/user-attachments/assets/8407495d-0067-447c-9c65-440e36c8b52c" />
+![image](https://github.com/rosy-nallian/Revive-My-OC/blob/main/image.png)
 Revivemyoc/
 ├── pom.xml # Maven 项目配置文件，定义依赖（如 FXGL 和 JavaFX）
 ├── README.md # 项目说明文档
