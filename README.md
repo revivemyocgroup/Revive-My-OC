@@ -62,9 +62,11 @@ Revivemyoc/
     </dependency>
 
 </dependencies>
-### 2. 插件
-Maven 构建过程中的插件配置：
+'''
 
+## 2. 插件
+Maven 构建过程中的插件配置：
+'''xml
 <build>
     <plugins>
         <plugin>
@@ -85,8 +87,9 @@ Maven 构建过程中的插件配置：
             </plugin>
     </plugins>
 </build>
-
+'''
 ### 3.包结构
+
 com.game.revivemyoc.entity
 Gem.java: 代表棋盘上的一个方块，包含颜色和位置属性。
 
@@ -112,6 +115,7 @@ com.game.revivemyoc.ui
 ScoreWidget.java: 负责显示分数和其他 UI 元素。
 
 ### 4.核心接口
+
 1. IGameLogicService (核心游戏逻辑接口)
 定义了核心的游戏逻辑方法，如查找匹配的宝石、消除宝石、下落等操作。
 
