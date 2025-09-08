@@ -62,11 +62,11 @@ Revivemyoc/
     </dependency>
 
 </dependencies>
-'''
+```
 
 ## 2. 插件
 Maven 构建过程中的插件配置：
-'''xml
+```xml
 <build>
     <plugins>
         <plugin>
@@ -87,7 +87,7 @@ Maven 构建过程中的插件配置：
             </plugin>
     </plugins>
 </build>
-'''
+```
 ### 3.包结构
 
 com.game.revivemyoc.entity
