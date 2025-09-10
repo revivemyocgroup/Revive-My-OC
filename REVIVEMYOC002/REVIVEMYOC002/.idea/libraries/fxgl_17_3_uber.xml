@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fxgl-17.3-uber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/libs/fxgl-17.3-uber.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../apache-maven-3.8.9-bin.zip!/apache-maven-3.8.9/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
