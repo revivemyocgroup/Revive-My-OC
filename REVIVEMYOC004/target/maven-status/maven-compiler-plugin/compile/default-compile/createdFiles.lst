@@ -1,0 +1,14 @@
+com\game\revivemyoc\factory\Position.class
+com\game\revivemyoc\service\IAnimationService.class
+com\game\revivemyoc\service\Match3Game.class
+com\game\revivemyoc\entity\GameBoard.class
+com\game\revivemyoc\service\IGameDataService.class
+com\game\revivemyoc\service\GameLogicService.class
+com\game\revivemyoc\Main.class
+com\game\revivemyoc\ui\ScoreWidget.class
+com\game\revivemyoc\entity\Gem.class
+com\game\revivemyoc\factory\EntityFactory.class
+com\game\revivemyoc\service\IGameLogicService.class
+com\game\revivemyoc\entity\GemType.class
+com\game\revivemyoc\service\AnimationService.class
+com\game\revivemyoc\service\SwapService.class
