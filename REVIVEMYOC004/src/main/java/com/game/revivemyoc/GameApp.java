@@ -3,7 +3,7 @@ package com.game.revivemyoc;
 import com.almasb.fxgl.app.GameApplication;
 import com.almasb.fxgl.app.GameSettings;
 import com.almasb.fxgl.entity.Entity;
-import com.almasb.fxgl.texture.Texture;
+import com.almasb.fxgl.textures.Textures;
 import static com.almasb.fxgl.dsl.FXGL.*;   // 静态导入 FXGL DSL 方法
 
 public class GameApp extends GameApplication {
